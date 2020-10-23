@@ -1,0 +1,77 @@
+.colour-wall {
+  background: url("../images/cartoon-brown-stone-wall-texture_172107-463.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  box-shadow: 0.1rem 0.1rem 0.25rem 0.15rem #a06b5c;
+}
+
+.colour-red {
+  background-color: red;
+  box-shadow: 0.1rem 0.1rem 0.25rem 0.15rem red;
+}
+
+.colour-light-grey {
+  box-shadow: 0.1rem 0.1rem 0.25rem 0.15rem lightgray;
+  background-color: lightgray;
+}
+
+.colour-black {
+  background-color: black !important;
+  box-shadow: 0.1rem 0.1rem 0.25rem 0.15rem black;
+}
+
+.colour-green {
+  background-color: green;
+  box-shadow: 0.1rem 0.1rem 0.25rem 0.15rem green;
+}
+
+.colour-yellow {
+  background-color: yellow;
+  box-shadow: 0.1rem 0.1rem 0.25rem 0.15rem yellow;
+}
+
+.colour-orange {
+  background-color: orange;
+  box-shadow: 0.1rem 0.1rem 0.25rem 0.15rem orange;
+}
+
+.colour-purple {
+  background-color: purple;
+  box-shadow: 0.1rem 0.1rem 0.25rem 0.15rem purple;
+}
+
+.colour-blue {
+  background-color: blue;
+  box-shadow: 0.1rem 0.1rem 0.25rem 0.15rem blue;
+}
+
+.colour-pink {
+  background-color: magenta;
+  box-shadow: 0.1rem 0.1rem 0.25rem 0.15rem magenta;
+}
+
+.block {
+  height: 2rem;
+  width: 2rem;
+  margin: 0.35rem;
+  /* outline: 1px solid rgba(114, 110, 110, 0.6); */
+}
+
+.col {
+  max-width: 2rem !important;
+}
+
+body {
+  background-image: url("../images/images.jpg");
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+}
+
+.score {
+  color: white;
+}
+
+.btn {
+  border-radius: 0.25rem;
+  border-color: white;
+}
