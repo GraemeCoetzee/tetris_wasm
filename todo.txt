@@ -1,5 +1,0 @@
-Display score
-Change block speed over time (I think in the JS by changing tick speed)
-Make better Menu, for loss
-Start screen for when you first open page
-Pause functionality maybe
